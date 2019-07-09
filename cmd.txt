@@ -7,3 +7,4 @@ git commit -m ""
 git commit --all -m ""
 
 git log
+git log oneline
